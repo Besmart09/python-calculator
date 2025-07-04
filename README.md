@@ -1,6 +1,4 @@
 
-# Advanced Calculator
-
 A Python-based advanced calculator that supports a wide range of mathematical operations from basic arithmetic to trigonometric and logarithmic functions. This project is **console-based** and does **not include a graphical user interface**.
 
 ## Features
@@ -17,11 +15,3 @@ A Python-based advanced calculator that supports a wide range of mathematical op
 - Python 3.x
 - `math` module for advanced mathematical operations
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed on your system.
-
-```bash
-python --version
