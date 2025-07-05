@@ -13,7 +13,7 @@ A Python-based advanced calculator that supports a wide range of mathematical op
 ## Technologies Used
 
 - Python 3.x
-- `math` module for advanced mathematical operations
+- `math` module for advanced mathematical operations.
 
 https://Besmart09.io
 
